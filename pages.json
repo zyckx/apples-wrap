@@ -53,6 +53,13 @@
 				"enablePullDownRefresh": false
 			}
 
+		}, {
+			"path": "pages/index/result/result",
+			"style": {
+				"navigationBarTitleText": "识别结果",
+				"enablePullDownRefresh": false
+			}
+
 		}
 	],
 	"globalStyle": {
