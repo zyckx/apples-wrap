@@ -33,7 +33,7 @@
 				const tempFilePaths = res.tempFilePaths;
 				console.log(JSON.stringify(res.tempFilePaths)),
 					uni.uploadFile({
-						url: "http://172.20.10.2:5001/upload", //post请求的地址
+						url: "http://101.42.229.5:9020/upload", //post请求的地址
 						filePath: tempFilePaths[0],
 						name: "file",
 						success: (uploadFileRes) => {
@@ -72,7 +72,7 @@
 					title: "正在识别中",
 				});
 				uni.uploadFile({
-					url: "http://172.20.10.2:5001/upload", //post请求的地址
+					url: "http://101.42.229.5:9020/upload", //post请求的地址
 					filePath: tempFilePaths[0],
 					name: "file",
 					success: (uploadFileRes) => {
