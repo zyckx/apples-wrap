@@ -142,13 +142,13 @@
 			}
 
 			.take-photo {
-				background: url("../../static/images/拍照.png") no-repeat;
+				background: url("../../static/images/takephoto.png") no-repeat;
 				background-size: cover;
 				background-position: 0 0;
 			}
 
 			.upload-image {
-				background: url("../../static/images/上传.png") no-repeat;
+				background: url("../../static/images/uploadimage.png") no-repeat;
 				background-size: cover;
 				background-position: 0 0;
 			}

@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "uview-plus": "^3.1.38"
+    "uview-plus": "^3.1.38",
+    "view-plus": "^2.1.59"
   },
   "devDependencies": {
     "sass": "^1.63.6",
