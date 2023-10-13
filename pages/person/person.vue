@@ -7,7 +7,7 @@
 				<div class="person-info">
 					<u-avatar text="北" fontSize="18" randomBgColor></u-avatar>
 					<div class="user-name">
-						星河
+						苹果套袋识别
 					</div>
 					<div class="motto">
 						一年精通三年熟练五年入门
@@ -33,10 +33,10 @@
 	} from "vue";
 	const bgUrl = ref(`url(https://s1.ax1x.com/2023/05/04/p9tvKQf.jpg)`)
 	const menuLists = reactive([{
-		icon: 'search',
+		icon: 'account',
 		title: '个人信息',
 	}, {
-		icon: 'search',
+		icon: 'warning',
 		title: '账号安全',
 	}, {
 		icon: 'search',
