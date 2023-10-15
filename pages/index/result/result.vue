@@ -9,6 +9,11 @@
 				style="margin: 20upx; color: red;display: flex;justify-content: center;align-items: center;">
 				{{result.result}}
 			</div>
+			<u-button type="warning">苹果个数</u-button>
+			<div class="text"
+				style="margin: 20upx; color: red;display: flex;justify-content: center;align-items: center;">
+				{{result.count}}
+			</div>
 			<u-button type="primary" @click="goback">返回</u-button>
 		</div>
 
